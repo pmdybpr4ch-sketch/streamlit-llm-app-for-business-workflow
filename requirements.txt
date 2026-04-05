@@ -1,0 +1,6 @@
+streamlit==1.41.1
+python-dotenv
+langchain==0.3.26
+langchain-community==0.3.26
+langchain-openai
+openai==1.91.0
